@@ -1,7 +1,6 @@
 public class j02{
 	public static void main(String[] args){
-		System.out.println("Primitive data types:");
-
+		System.out.println("Primitive data types");
 		byte b = 123;  // byte
 		System.out.println("Value of byte b: " + b);
 
@@ -46,5 +45,10 @@ public class j02{
 
 		char c2 = '\uabcd';  // assign using unicode value
 		System.out.println("Value of char c2: " + c2);
+
+		System.out.println("\nReference data types");
+		Integer i5 = new Integer(5);  // int class wrapper Integer, initialized with int 5
+		System.out.println("Value of Integer i5: " + i5);
 	}
+
 }

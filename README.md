@@ -2,7 +2,7 @@
 
 ## About
 
-Java language concepts and features from scratch.
+Refresher for Java language concepts and features.
 
 ```
 ❯ java -version
@@ -13,4 +13,9 @@ Java HotSpot(TM) 64-Bit Server VM (build 14.0.2+12-46, mixed mode, sharing)
 
 ## Index
 
-- [Intro](md/01.md)
+- Basics
+  - [Intro](md/01.md)
+  - [Primitive Data Types](md/02.md)
+  - [Non-Primitive Data Types](md/03.md)
+- Intermediate
+- Advanced
